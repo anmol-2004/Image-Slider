@@ -8,4 +8,4 @@ Customizable: You can easily customize the appearance and behavior of the slider
 Easy to Use: Integration into your website is straightforward. Just include the necessary HTML, CSS, and JavaScript files, and you're ready to go.
 Keyboard Navigation: Users can navigate through the images using keyboard arrow keys for accessibility and convenience.
 Demo
-You can view a live demo of the image slider here (replace with link to your live demo).
+You can view a live demo of the image slider here (https://anmol-2004.github.io/Image-Slider/).
